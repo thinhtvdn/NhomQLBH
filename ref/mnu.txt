@@ -1,0 +1,11 @@
+
+https://stackoverflow.com/questions/2905938/c-sharp-windows-form-on-close-do-process
+
+
+https://www.codeproject.com/Questions/1135977/How-to-open-another-form-in-MDI-form-after-login
+
+https://stackoverflow.com/questions/53744918/how-to-properly-open-a-login-form
+
+https://stackoverflow.com/questions/53744918/how-to-properly-open-a-login-form
+
+
