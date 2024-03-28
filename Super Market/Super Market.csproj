@@ -110,6 +110,12 @@
     <Compile Include="frmDoiMatKhau.designer.cs">
       <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmNhanVien1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNhanVien1.Designer.cs">
+      <DependentUpon>FrmNhanVien1.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTKDanhSachHoaDonBanHang.cs">
       <SubType>Form</SubType>
     </Compile>
