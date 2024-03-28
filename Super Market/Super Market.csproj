@@ -83,7 +83,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="ConnectionString.cs" />
+    <Compile Include="FormABC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormABC.Designer.cs">
+      <DependentUpon>FormABC.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmAbout.cs">
       <SubType>Form</SubType>
     </Compile>
